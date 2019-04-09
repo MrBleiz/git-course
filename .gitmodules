@@ -1,6 +1,6 @@
-[submodule "git-course-reveal.js"]
-	path = git-course-reveal.js
-	url = https://github.com/MrBleiz/git-course-reveal.js.git
+
+
+
 [submodule "reveal-js"]
 	path = reveal-js
 	url = https://github.com/MrBleiz/git-course-reveal.js.git
